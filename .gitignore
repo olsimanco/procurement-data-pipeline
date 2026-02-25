@@ -5,4 +5,8 @@ __pycache__/
 .env
 
 # Data and Exports
-exports/
+exports/*
+!exports/red_flags_with_winners.json
+!exports/red_flags_with_winners.csv
+!exports/top_winning_companies.png
+!exports/top_institutions.png
