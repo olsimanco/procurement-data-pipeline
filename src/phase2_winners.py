@@ -11,6 +11,7 @@ EXPORTS_DIR = os.path.join(BASE_DIR, "exports")
 INPUT_CSV = os.path.join(EXPORTS_DIR, "complete_red_flags.csv")
 OUTPUT_CSV = os.path.join(EXPORTS_DIR, "red_flags_with_winners.csv")
 
+
 # --- SETTINGS ---
 # Set this to False when you are ready to run all 10,000+ rows!
 TEST_MODE = True
@@ -89,6 +90,9 @@ def run_phase2():
     df.to_csv(OUTPUT_CSV, index=False, encoding="utf-8-sig")
     print(f"\nSuccess! Saved updated database to: {OUTPUT_CSV}")
 
+    json_path = os.path.join(EXPORTS_DIR, "red_flags_with_winners.json")
+    df.to_json(json_path, orient="records", force_ascii=False, indent=4)
+
     # --- Generate the Repeat Offenders Chart ---
     # Filter out tenders that don't have a specific winner listed
     valid_winners = df[
@@ -102,7 +106,7 @@ def run_phase2():
         # Plotting
         top_winners.plot(kind="bar", color="#d9534f", edgecolor="black")
 
-        title = "Top Kompanitë me Më Shumë Tenderë me Flamur të Kuq"
+        title = "Kompanitë me Më Shumë Tenderë me Flamur të Kuq"
         if TEST_MODE:
             title += " (TEST MODE)"
 
