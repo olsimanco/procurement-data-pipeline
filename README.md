@@ -45,6 +45,10 @@ procurement-data-pipeline/
 │   ├── phase1_scraper.py                   # Summary table extraction logic
 │   └── phase2_winners.py                   # Deep-dive detail extraction logic
 │
+├── tests/                                  # Unit tests for reliability
+│   ├── test_cleaners.py                    # Tests for data formatting logic
+│   └── test_parser.py                      # Tests for HTML DOM extraction
+│
 ├── .github/workflows/                      # GitHub Actions automation
 │   └── scrape.yml
 │

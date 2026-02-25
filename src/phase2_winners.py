@@ -14,7 +14,7 @@ OUTPUT_CSV = os.path.join(EXPORTS_DIR, "red_flags_with_winners.csv")
 
 # --- SETTINGS ---
 # Set this to False when you are ready to run all 10,000+ rows!
-TEST_MODE = True
+TEST_MODE = False
 TEST_LIMIT = 15  # Only process this many rows if TEST_MODE is True
 # ----------------
 
