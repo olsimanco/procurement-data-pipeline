@@ -1,152 +1,142 @@
 import os
-import time
 import requests
 import pandas as pd
 import matplotlib.pyplot as plt
+from bs4 import BeautifulSoup
 
 # Set up paths dynamically
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 EXPORTS_DIR = os.path.join(BASE_DIR, "exports")
 
-# Map the URL IDs to the actual Red Flag reasons.
+# --- YOUR VIP PASS (COOKIES & HEADERS) ---
+# Combined all your cookies into one perfect string
+RAW_COOKIES = (
+    "cf_clearance=DOddKPciMDsipUt8XdpBY7lSiMELkZgY8HuzJFLgwLY-1772023617-1.2.1.1-R8Af_vS9gHJXAxYpWwhF4TLf6wxHAE076pIrZh9eZNFAT3rfqVFniaBC9vrP2D69ybVGrjjONdgw2vk1.uLSuSHeE8aTa5hQjOlxeG34ONGitcuSWER1MCXp80kt.brwvakiEI7R4ImYXK0KxDZGLbAJU2ZDe9tFjj5RaYz8r4V7_IMOdY49K.Ff00HAvHVgdwAn0Exidsbu..gvB.GiP3lXv8d9H1CZsd.R9l_GfqI; "
+    "_ga=GA1.2.281829140.1771886313; "
+    "_ga_X4EV9LSCJD=GS2.2.s1772023617$o3$g1$t1772023648$j29$l0$h0; "
+    "_gat=1; "
+    "_gid=GA1.2.1978119440.1772023617"
+)
+
+MY_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "Cookie": RAW_COOKIES,
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
+}
+# ----------------------------------------
+
 RED_FLAG_MAPPING = {
     1: "Mungese konkurrence",
     2: "Procedure me negocim",
     3: "Me negocim, pa njoftim",
     4: "Pamundesi kohore per pergatitje te nje oferte (oferte teknike plus dokumentacion)",
     5: "Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-    6: " Skualifikim i te gjithe operatoreve konkurrues pervec fituesit/ Skualifikim i ofertes vlere me e ulet",
+    6: "Skualifikim i te gjithe operatoreve konkurrues pervec fituesit/ Skualifikim i ofertes vlere me e ulet",
     7: "Anullimi i Tenderit dy ose me shume here",
 }
 
 
-def fetch_paginated_flag_data(flag_id, flag_name):
-    """
-    Scrapes all pages for a specific red flag ID using a while loop.
-    """
-    print(f"\n--- Starting Extraction for: {flag_name} ---")
-    all_pages_data = []
-    page = 1
-    previous_df = None
-
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-    }
-
-    while True:
-        # IMPORTANT: The "?page=" parameter might be different on the live site.
-        # Sometimes it is "?faqe=" or just "/page/2".
-        url = f"https://openprocurement.al/sq/index/redflag/flag_options/{flag_id}?page={page}"
-        print(f"  -> Scraping Page {page}...")
-
-        try:
-            response = requests.get(url, headers=headers)
-            response.raise_for_status()
-
-            # Extract all HTML tables from the page
-            tables = pd.read_html(response.text)
-
-            if not tables:
-                print("     No tables found. End of pages reached.")
-                break
-
-            df = tables[0]  # The main data is almost always the first table (index 0)
-
-            # Protection against infinite loops: Some websites just reload Page 1
-            # if you request a page number that doesn't exist.
-            if previous_df is not None and df.equals(previous_df):
-                print("     Duplicate data detected. End of pages reached.")
-                break
-
-            # If the table is empty (just headers), stop the loop
-            if df.empty or len(df) == 0:
-                print("     Empty table. End of pages reached.")
-                break
-
-            # Tag the data with the reason so we can sort it later
-            df["Red Flag Reason"] = flag_name
-            all_pages_data.append(df)
-
-            previous_df = df.copy()
-            page += 1
-
-            # Be polite to the server
-            time.sleep(1)
-
-        except ValueError:
-            # Pandas throws a ValueError if it literally finds no <table> tags
-            print("     No HTML tables exist on this page. Stopping.")
-            break
-        except Exception as e:
-            print(f"     Error on page {page}: {e}")
-            break
-
-    # Combine all pages for this specific flag into one DataFrame
-    if all_pages_data:
-        return pd.concat(all_pages_data, ignore_index=True)
-    return pd.DataFrame()
+def clean_money_string(val):
+    if not val or val == "":
+        return 0.0
+    try:
+        return float(str(val).replace(" ", "").strip())
+    except ValueError:
+        return 0.0
 
 
-def export_results(master_df):
-    """Saves the combined data to CSV and generates a summary chart."""
-    if master_df.empty:
-        print("\nNo data to export. Exiting.")
-        return
+def fetch_flag_data(flag_id, flag_name):
+    url = f"https://openprocurement.al/sq/index/redflag/flag_options/{flag_id}"
+    print(f"Fetching data for: {flag_name}...")
 
-    # 1. Save to CSV
-    csv_path = os.path.join(EXPORTS_DIR, "complete_red_flags.csv")
-    master_df.to_csv(csv_path, index=False, encoding="utf-8-sig")
-    print(f"\nData successfully exported to: {csv_path}")
+    try:
+        # Using the standard requests library with your Firefox headers
+        response = requests.get(url, headers=MY_HEADERS)
 
-    # 2. Generate a visual summary of the findings
-    plt.figure(figsize=(10, 6))
+        # Check if Cloudflare blocked us
+        if (
+            "cf-browser-verification" in response.text
+            or "challenge-platform" in response.text
+        ):
+            print("  -> Blocked by Cloudflare! Your cookie might have expired.")
+            return pd.DataFrame()
 
-    # Count how many times each company appears across ALL red flags
-    # Note: Update 'Operator Ekonomik Kontraktues' if the column name is slightly different
-    company_col = "Operator Ekonomik Kontraktues"
+        soup = BeautifulSoup(response.text, "html.parser")
+        tbody = soup.find("tbody")
 
-    if company_col in master_df.columns:
-        top_companies = master_df[company_col].value_counts().head(10)
+        if not tbody:
+            print("  -> Warning: No data table found.")
+            return pd.DataFrame()
 
-        top_companies.plot(kind="bar", color="darkred", edgecolor="black")
-        plt.title(
-            "Top 10 Companies by Number of Red-Flagged Tenders",
-            fontsize=14,
-            fontweight="bold",
-        )
-        plt.xlabel("Company Name", fontsize=12)
-        plt.ylabel("Total Flags", fontsize=12)
-        plt.xticks(rotation=45, ha="right")
-        plt.tight_layout()
+        tenders = []
+        for row in tbody.find_all("tr"):
+            cols = row.find_all("td")
+            if len(cols) >= 8:
+                tenders.append(
+                    {
+                        "ID": cols[1].text.strip(),
+                        "Titulli": cols[2].text.strip(),
+                        "Autoriteti Prokurues": cols[3].text.strip(),
+                        "Institucioni Prokurues": cols[4].text.strip(),
+                        "Vlera / Fondi Limit": clean_money_string(cols[5].text.strip()),
+                        "Data e Shpalljes": cols[6].text.strip(),
+                        "Nr Reference": cols[7].text.strip(),
+                        "Red Flag Reason": flag_name,
+                    }
+                )
 
-        chart_path = os.path.join(EXPORTS_DIR, "top_offenders_chart.png")
-        plt.savefig(chart_path)
-        print(f"Chart exported to: {chart_path}")
-    else:
-        print(
-            f"Could not generate chart: Column '{company_col}' not found in the table."
-        )
+        df = pd.DataFrame(tenders)
+        print(f"  -> Success! Extracted {len(df)} rows.")
+        return df
+
+    except Exception as e:
+        print(f"  -> Error: {str(e)[:100]}")
+        return pd.DataFrame()
 
 
 def main():
-    print("Initializing Multi-Page Extraction...")
+    print("--- Starting Procurement Red Flag Scraper ---")
     os.makedirs(EXPORTS_DIR, exist_ok=True)
-
     all_flags_data = []
 
     for flag_id, flag_name in RED_FLAG_MAPPING.items():
-        df_flag = fetch_paginated_flag_data(flag_id, flag_name)
+        df_flag = fetch_flag_data(flag_id, flag_name)
         if not df_flag.empty:
             all_flags_data.append(df_flag)
 
     if all_flags_data:
         master_df = pd.concat(all_flags_data, ignore_index=True)
-        print(
-            f"\nExtraction complete! Total flagged tenders downloaded: {len(master_df)}"
-        )
-        export_results(master_df)
+        print(f"\n--- Extraction Complete! Total rows: {len(master_df)} ---")
+
+        csv_path = os.path.join(EXPORTS_DIR, "complete_red_flags.csv")
+        master_df.to_csv(csv_path, index=False, encoding="utf-8-sig")
+        print(f"File saved to: {csv_path}")
+
+        inst_col = "Institucioni Prokurues"
+        if inst_col in master_df.columns:
+            plt.figure(figsize=(10, 6))
+            master_df[inst_col].value_counts().head(10).plot(
+                kind="bar", color="#8b0000", edgecolor="black"
+            )
+            plt.title(
+                "Top 10 Institucionet me Tenderë me Flamur të Kuq",
+                fontsize=14,
+                fontweight="bold",
+            )
+            plt.ylabel("Numri i Tenderëve", fontsize=12)
+            plt.xticks(rotation=45, ha="right")
+            plt.tight_layout()
+            plt.savefig(os.path.join(EXPORTS_DIR, "top_institutions.png"))
+            print("Chart saved.")
     else:
-        print("\nFailed to extract any data.")
+        print("\nExtraction failed. No files were saved.")
 
 
 if __name__ == "__main__":
