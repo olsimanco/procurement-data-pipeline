@@ -11,6 +11,39 @@
         "Fituesi (Winner)":"4 S"
     },
     {
+        "ID":69530,
+        "Titulli":"Loti III Blerje Bulmetore",
+        "Autoriteti Prokurues":"Qeverisja Vendore Patos",
+        "Institucioni Prokurues":"Bashkia Patos",
+        "Vlera \/ Fondi Limit":2562500.0,
+        "Data e Shpalljes":"08-05-2026",
+        "Nr Reference":"REF-84636-05-07-2026",
+        "Red Flag Reason":"Mungese konkurrence",
+        "Fituesi (Winner)":"4 S"
+    },
+    {
+        "ID":69680,
+        "Titulli":"“Blerje ekskavator 5 ton dhe autovinc per ngritje ne lartesi 20 m”",
+        "Autoriteti Prokurues":"Qeverisja Vendore Has",
+        "Institucioni Prokurues":"Bashkia Has",
+        "Vlera \/ Fondi Limit":5416667.0,
+        "Data e Shpalljes":"15-05-2026",
+        "Nr Reference":"REF-85634-05-14-2026",
+        "Red Flag Reason":"Mungese konkurrence",
+        "Fituesi (Winner)":"E Pacaktuar"
+    },
+    {
+        "ID":69985,
+        "Titulli":"F.V pjese kembimi per mjetet e bashkise Cerrik",
+        "Autoriteti Prokurues":"Qeverisja Vendore Cërrik",
+        "Institucioni Prokurues":"Bashkia Cerrik",
+        "Vlera \/ Fondi Limit":3000000.0,
+        "Data e Shpalljes":"12-06-2026",
+        "Nr Reference":"REF-89765-06-11-2026",
+        "Red Flag Reason":"Mungese konkurrence",
+        "Fituesi (Winner)":"Erion Sina"
+    },
+    {
         "ID":68693,
         "Titulli":"Procedure konkurruese per dhënien me qira të sipërfaqes së tokës prej siperfaqes prej 13.5 ha ose 135000 m2 të ndodhur\r\nnë Njësinë Administrative Buçimas",
         "Autoriteti Prokurues":"Qeverisja Vendore Pogradec",
@@ -19,7 +52,84 @@
         "Data e Shpalljes":"27-04-2026",
         "Nr Reference":"1",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Personi Fizik Fatri Bunaca"
+        "Fituesi (Winner)":""
+    },
+    {
+        "ID":69687,
+        "Titulli":"\"Për dhenien me qira me konkurrim publik të pasurisë me nr 220 me indeks harte kadastrale K-34-\r\n100-(50-C) e llojit \"ullishte\" me sip. 15354 m² ndodhur në Z.K 2291 Kryemëdhenj Njesia\r\nAdiministrative Golem\"",
+        "Autoriteti Prokurues":"Qeverisja Vendore Kavajë",
+        "Institucioni Prokurues":"Bashkia Kavaje",
+        "Vlera \/ Fondi Limit":12000.0,
+        "Data e Shpalljes":"18-05-2026",
+        "Nr Reference":"1",
+        "Red Flag Reason":"Mungese konkurrence",
+        "Fituesi (Winner)":"Goleminvest sh.p.k"
+    },
+    {
+        "ID":69740,
+        "Titulli":"Rehabilitimi i sheshit Kuç Buronja, rikonstruksioni i urës dhe pyllëzimi i sheshit",
+        "Autoriteti Prokurues":"Qeverisja Vendore Himarë",
+        "Institucioni Prokurues":"Bashkia Himare",
+        "Vlera \/ Fondi Limit":25000000.0,
+        "Data e Shpalljes":"20-05-2026",
+        "Nr Reference":"REF-85323-05-12-2026",
+        "Red Flag Reason":"Mungese konkurrence",
+        "Fituesi (Winner)":"“RSM Company”"
+    },
+    {
+        "ID":70053,
+        "Titulli":"Procedurën konkurruese\r\npër dhënien me qira të sipërfaqes së tokës prej siperfaqes prej 5 ha ose 50000 m2 të ndodhur në\r\nNjësinë Administrative Çërravë",
+        "Autoriteti Prokurues":"Qeverisja Vendore Pogradec",
+        "Institucioni Prokurues":"Bashkia Pogradec",
+        "Vlera \/ Fondi Limit":35000.0,
+        "Data e Shpalljes":"27-04-2026",
+        "Nr Reference":"1",
+        "Red Flag Reason":"Mungese konkurrence",
+        "Fituesi (Winner)":"Fermeri “Refik Kapa”"
+    },
+    {
+        "ID":70054,
+        "Titulli":"Procedure konkurruese\r\npër dhënien me qira të sipërfaqes së tokës prej siperfaqes prej 11,6678 ha ose 116678 m2 të ndodhur\r\nnë Njësinë Administrative Buçimas",
+        "Autoriteti Prokurues":"Qeverisja Vendore Pogradec",
+        "Institucioni Prokurues":"Bashkia Pogradec",
+        "Vlera \/ Fondi Limit":35000.0,
+        "Data e Shpalljes":"27-04-2026",
+        "Nr Reference":"1",
+        "Red Flag Reason":"Mungese konkurrence",
+        "Fituesi (Winner)":"Fermeri Martin Liçkollari"
+    },
+    {
+        "ID":69435,
+        "Titulli":"Blerje Karburanti për mjetet e bashkisë për vitin 2026",
+        "Autoriteti Prokurues":"Qeverisja Vendore Gramsh",
+        "Institucioni Prokurues":"Bashkia Gramsh",
+        "Vlera \/ Fondi Limit":18165584.0,
+        "Data e Shpalljes":"05-05-2026",
+        "Nr Reference":"REF-84055-05-04-2026",
+        "Red Flag Reason":"Mungese konkurrence",
+        "Fituesi (Winner)":"E-S-P & OIL SHPK"
+    },
+    {
+        "ID":69800,
+        "Titulli":"Sherbimi i sigurise ne objekte",
+        "Autoriteti Prokurues":"Qeverisja Vendore Shkodër",
+        "Institucioni Prokurues":"Drejtoria e Pergjithshme e Mirembajtjes se Objekteve Publike",
+        "Vlera \/ Fondi Limit":49225833.0,
+        "Data e Shpalljes":"26-05-2026",
+        "Nr Reference":"REF-86748-05-25-2026",
+        "Red Flag Reason":"Mungese konkurrence",
+        "Fituesi (Winner)":"Nazeri 2000 SHPK"
+    },
+    {
+        "ID":69866,
+        "Titulli":"“Blerje dhe vendosje pjesë këmbimi për automjetet, Bashkia Mirditë”",
+        "Autoriteti Prokurues":"Qeverisja Vendore Mirditë",
+        "Institucioni Prokurues":"Bashkia Mirdite",
+        "Vlera \/ Fondi Limit":1081900.0,
+        "Data e Shpalljes":"03-06-2026",
+        "Nr Reference":"REF-88475-06-02-2026",
+        "Red Flag Reason":"Mungese konkurrence",
+        "Fituesi (Winner)":"Anton Nikolli"
     },
     {
         "ID":68692,
@@ -2109,7 +2219,7 @@
         "Data e Shpalljes":"12-12-2025",
         "Nr Reference":"REF-71896-12-11-2025",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Error\/Blocked"
+        "Fituesi (Winner)":"T&J Construction sh.p.k"
     },
     {
         "ID":67019,
@@ -4166,7 +4276,7 @@
         "Data e Shpalljes":"12-08-2025",
         "Nr Reference":"REF-57918-08-12-2025",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"INTERSIG VIENNA INSURANCE GROUP"
+        "Fituesi (Winner)":"Error\/Blocked"
     },
     {
         "ID":62937,
@@ -7917,7 +8027,7 @@
         "Data e Shpalljes":"21-10-2024",
         "Nr Reference":"REF-25419-10-18-2024",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"POWER INDUSTRIES"
+        "Fituesi (Winner)":"Error\/Blocked"
     },
     {
         "ID":61311,
@@ -10349,6 +10459,17 @@
         "Nr Reference":"REF-18336-09-09-2024",
         "Red Flag Reason":"Mungese konkurrence",
         "Fituesi (Winner)":"Albsig Jetë"
+    },
+    {
+        "ID":56253,
+        "Titulli":"Ndertimi i shkolles 9-vjeçare\"Ismail Veizi\" Babunj, Bashkia Divjake",
+        "Autoriteti Prokurues":"Qeverisja Vendore Divjakë",
+        "Institucioni Prokurues":"Bashkia Divjake",
+        "Vlera \/ Fondi Limit":65814708.0,
+        "Data e Shpalljes":"06-09-2024",
+        "Nr Reference":"REF-17977-09-04-2024",
+        "Red Flag Reason":"Mungese konkurrence",
+        "Fituesi (Winner)":"FLED SHPK"
     },
     {
         "ID":55490,
@@ -18268,7 +18389,7 @@
         "Data e Shpalljes":"12-09-2023",
         "Nr Reference":"REF-79521-09-11-2023",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Error\/Blocked"
+        "Fituesi (Winner)":"GERTI - 1987"
     },
     {
         "ID":53084,
@@ -18389,7 +18510,7 @@
         "Data e Shpalljes":"03-08-2023",
         "Nr Reference":"REF-76322-07-28-2023",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Error\/Blocked"
+        "Fituesi (Winner)":"MICULI  -  EVEREST"
     },
     {
         "ID":52620,
@@ -19148,7 +19269,7 @@
         "Data e Shpalljes":"20-07-2023",
         "Nr Reference":"REF-75350-07-18-2023",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"inAuto shpk"
+        "Fituesi (Winner)":"Error\/Blocked"
     },
     {
         "ID":51855,
@@ -20677,7 +20798,7 @@
         "Data e Shpalljes":"24-03-2023",
         "Nr Reference":"REF-62800-03-17-2023",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Error\/Blocked"
+        "Fituesi (Winner)":"LENI-ING"
     },
     {
         "ID":51518,
@@ -21524,7 +21645,7 @@
         "Data e Shpalljes":"02-03-2023",
         "Nr Reference":"REF-60893-03-01-2023",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"E Pacaktuar"
+        "Fituesi (Winner)":"Error\/Blocked"
     },
     {
         "ID":52116,
@@ -25869,7 +25990,7 @@
         "Data e Shpalljes":"18-08-2022",
         "Nr Reference":"REF-39096-08-17-2022",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"NIKA SHPK"
+        "Fituesi (Winner)":"Error\/Blocked"
     },
     {
         "ID":48178,
@@ -27387,7 +27508,7 @@
         "Data e Shpalljes":"23-07-2022",
         "Nr Reference":"REF-36512-07-18-2022",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Error\/Blocked"
+        "Fituesi (Winner)":"JODY COMPANY SHPK"
     },
     {
         "ID":47521,
@@ -28982,7 +29103,7 @@
         "Data e Shpalljes":"27-04-2022",
         "Nr Reference":"REF-26401-04-26-2022",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Error\/Blocked"
+        "Fituesi (Winner)":"Nushi SHPK"
     },
     {
         "ID":46436,
@@ -30753,7 +30874,7 @@
         "Data e Shpalljes":"28-09-2021",
         "Nr Reference":"REF-06396-09-27-2021",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Error\/Blocked"
+        "Fituesi (Winner)":"BLERIMI SHPK"
     },
     {
         "ID":44149,
@@ -32722,7 +32843,7 @@
         "Data e Shpalljes":"11-05-2021",
         "Nr Reference":"REF-95071-05-10-2021",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Genti 001"
+        "Fituesi (Winner)":"Error\/Blocked"
     },
     {
         "ID":38546,
@@ -34548,7 +34669,7 @@
         "Data e Shpalljes":"26-02-2021",
         "Nr Reference":"REF-88467-02-26-2021",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Error\/Blocked"
+        "Fituesi (Winner)":"COGREN (ish ELKRI&Co SHPK)"
     },
     {
         "ID":37447,
@@ -36572,7 +36693,7 @@
         "Data e Shpalljes":"11-09-2020",
         "Nr Reference":"REF-71197-09-10-2020",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Axians Albania"
+        "Fituesi (Winner)":"Error\/Blocked"
     },
     {
         "ID":35475,
@@ -38255,7 +38376,7 @@
         "Data e Shpalljes":"14-05-2020",
         "Nr Reference":"REF-57988-05-13-2020",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Error\/Blocked"
+        "Fituesi (Winner)":"SI.SI-AL SHPK"
     },
     {
         "ID":32980,
@@ -39652,7 +39773,7 @@
         "Data e Shpalljes":null,
         "Nr Reference":"REF-55850-04-07-2020",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"GENTIAN HORIETI"
+        "Fituesi (Winner)":"Error\/Blocked"
     },
     {
         "ID":33498,
@@ -41467,7 +41588,7 @@
         "Data e Shpalljes":"21-11-2019",
         "Nr Reference":"REF-44099-11-19-2019",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Error\/Blocked"
+        "Fituesi (Winner)":"Sinani Trading  SHPK ( ish M B KURTI shpk)"
     },
     {
         "ID":31179,
@@ -42908,7 +43029,7 @@
         "Data e Shpalljes":null,
         "Nr Reference":"REF-33562-08-14-2019",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Error\/Blocked"
+        "Fituesi (Winner)":"Viola Green"
     },
     {
         "ID":29145,
@@ -51741,7 +51862,7 @@
         "Data e Shpalljes":"20-03-2018",
         "Nr Reference":"REF-57043-03-19-2018",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Error"
+        "Fituesi (Winner)":"IDK – Konstruksion"
     },
     {
         "ID":16437,
@@ -51752,7 +51873,7 @@
         "Data e Shpalljes":"27-03-2018",
         "Nr Reference":"REF-58367-03-26-2018",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Error"
+        "Fituesi (Winner)":"TEA -D SHPK"
     },
     {
         "ID":16533,
@@ -51796,7 +51917,7 @@
         "Data e Shpalljes":"28-03-2018",
         "Nr Reference":"REF-58784-03-27-2018",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Error"
+        "Fituesi (Winner)":"KAJMAKU SHPK  -  SHESHORI SHPK"
     },
     {
         "ID":16472,
@@ -51807,7 +51928,7 @@
         "Data e Shpalljes":"28-03-2018",
         "Nr Reference":"REF-58782-03-27-2018",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Error"
+        "Fituesi (Winner)":"KAJMAKU SHPK  -  SHESHORI SHPK"
     },
     {
         "ID":16473,
@@ -51818,7 +51939,7 @@
         "Data e Shpalljes":"28-03-2018",
         "Nr Reference":"REF-58791-03-27-2018",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Error"
+        "Fituesi (Winner)":"KAJMAKU SHPK  -  SHESHORI SHPK"
     },
     {
         "ID":16474,
@@ -51840,7 +51961,7 @@
         "Data e Shpalljes":"29-03-2018",
         "Nr Reference":"REF-59043-03-28-2018",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Error"
+        "Fituesi (Winner)":"POWER INDUSTRIES"
     },
     {
         "ID":16933,
@@ -51851,7 +51972,7 @@
         "Data e Shpalljes":"16-04-2018",
         "Nr Reference":"REF-62385-04-13-2018",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Error"
+        "Fituesi (Winner)":"METRO EURO"
     },
     {
         "ID":16940,
@@ -51862,7 +51983,7 @@
         "Data e Shpalljes":"16-04-2018",
         "Nr Reference":"REF-62418-04-13-2018",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Error"
+        "Fituesi (Winner)":"ALTIN DERVISHI"
     },
     {
         "ID":14993,
@@ -51884,7 +52005,7 @@
         "Data e Shpalljes":"28-02-2018",
         "Nr Reference":"REF-52387-02-27-2018",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Error"
+        "Fituesi (Winner)":"LIGUS SHPK"
     },
     {
         "ID":16084,
@@ -51895,7 +52016,7 @@
         "Data e Shpalljes":"12-03-2018",
         "Nr Reference":"REF-55084-03-11-2018",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Error"
+        "Fituesi (Winner)":"JASHARI"
     },
     {
         "ID":16218,
@@ -57989,7 +58110,7 @@
         "Data e Shpalljes":"16-03-2017",
         "Nr Reference":"REF-71928-03-15-2017",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"FATMIR XHAFERI"
+        "Fituesi (Winner)":"Error\/Blocked"
     },
     {
         "ID":7447,
@@ -59397,7 +59518,7 @@
         "Data e Shpalljes":"05-09-2016",
         "Nr Reference":null,
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Error\/Blocked"
+        "Fituesi (Winner)":"KUMRIA 1 SHPK"
     },
     {
         "ID":4294,
@@ -62004,7 +62125,7 @@
         "Data e Shpalljes":"05.12.2025",
         "Nr Reference":"REF-71274-12-05-2025",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Error\/Blocked"
+        "Fituesi (Winner)":"EUROSIG SHA"
     },
     {
         "ID":67657,
@@ -64655,7 +64776,7 @@
         "Data e Shpalljes":null,
         "Nr Reference":null,
         "Red Flag Reason":"Pamundesi kohore per pergatitje te nje oferte (oferte teknike plus dokumentacion)",
-        "Fituesi (Winner)":"NRB Engineering Studio  -  Zenit 06 Shpk"
+        "Fituesi (Winner)":"Error\/Blocked"
     },
     {
         "ID":15074,
@@ -64988,6 +65109,182 @@
         "Fituesi (Winner)":"AURORA KONSTRUKSION"
     },
     {
+        "ID":68459,
+        "Titulli":"Ndërtim Rrugët Blloku Valias Grupi 2",
+        "Autoriteti Prokurues":"Qeverisja Vendore Kamëz",
+        "Institucioni Prokurues":"Bashkia Kamez",
+        "Vlera \/ Fondi Limit":151435729.0,
+        "Data e Shpalljes":"31-03-2026",
+        "Nr Reference":"REF-80364-03-30-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"L.T.E CONSTRUCTION"
+    },
+    {
+        "ID":69538,
+        "Titulli":"“Ndërtim dhe Rikonstruksion Rrugët Blloku Babrru”",
+        "Autoriteti Prokurues":"Qeverisja Vendore Kamëz",
+        "Institucioni Prokurues":"Bashkia Kamez",
+        "Vlera \/ Fondi Limit":224108918.0,
+        "Data e Shpalljes":"08-05-2026",
+        "Nr Reference":"REF-84728-05-07-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"SHENDELLI SHPK"
+    },
+    {
+        "ID":69611,
+        "Titulli":"Blerje materiale elektrike per nevojat e Bashkise Rrogozhine",
+        "Autoriteti Prokurues":"Qeverisja Vendore Rrogozhinë",
+        "Institucioni Prokurues":"Bashkia Rrogozhine",
+        "Vlera \/ Fondi Limit":5000000.0,
+        "Data e Shpalljes":"13-05-2026",
+        "Nr Reference":"REF-85299-05-12-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"VASAA SHPK"
+    },
+    {
+        "ID":69547,
+        "Titulli":"Blerje projekti ndertim rruge",
+        "Autoriteti Prokurues":"Qeverisja Vendore Pustec",
+        "Institucioni Prokurues":"Bashkia Pustec",
+        "Vlera \/ Fondi Limit":4166667.0,
+        "Data e Shpalljes":"22-05-2026",
+        "Nr Reference":"REF-86424-05-21-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"ZENIT & Co shpk"
+    },
+    {
+        "ID":69408,
+        "Titulli":"Blerje Veshje pune për nevojat e Ukt sh.a",
+        "Autoriteti Prokurues":"Qeverisja Vendore Tiranë",
+        "Institucioni Prokurues":"SH.A Ujesjelles Kanalizime Tirane",
+        "Vlera \/ Fondi Limit":9862499.0,
+        "Data e Shpalljes":"30-04-2026",
+        "Nr Reference":"REF-83834-04-29-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"Vojsava Zenelaj"
+    },
+    {
+        "ID":69570,
+        "Titulli":"Ndërhyrje rehabilituese në rrugët auto-pyjore",
+        "Autoriteti Prokurues":"Qeverisja Vendore Tiranë",
+        "Institucioni Prokurues":"Agjencia e Parqeve dhe Rekreacionit",
+        "Vlera \/ Fondi Limit":15475291.0,
+        "Data e Shpalljes":"11-05-2026",
+        "Nr Reference":"REF-84839-05-08-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"Colombo LTD"
+    },
+    {
+        "ID":69845,
+        "Titulli":"Blerje kamioncine per Njesite Administrative",
+        "Autoriteti Prokurues":"Qeverisja Vendore Kavajë",
+        "Institucioni Prokurues":"Bashkia Kavaje",
+        "Vlera \/ Fondi Limit":15940000.0,
+        "Data e Shpalljes":"01-06-2026",
+        "Nr Reference":"REF-87975-05-29-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"KIDA-TRANS  sh.p.k"
+    },
+    {
+        "ID":69883,
+        "Titulli":"“Blerje Kamion me 3 Akse”",
+        "Autoriteti Prokurues":"Qeverisja Vendore Pogradec",
+        "Institucioni Prokurues":"Bashkia Pogradec",
+        "Vlera \/ Fondi Limit":3480000.0,
+        "Data e Shpalljes":"04-06-2026",
+        "Nr Reference":"REF-88555-06-03-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"ARTEO 2018"
+    },
+    {
+        "ID":70083,
+        "Titulli":"LOTI 1 –Beton C-16\/20 (Me zall)-",
+        "Autoriteti Prokurues":"Qeverisja Vendore Lushnje",
+        "Institucioni Prokurues":"dermarrja e Pasurive Publike Lushnje",
+        "Vlera \/ Fondi Limit":24140505.0,
+        "Data e Shpalljes":"27-04-2026",
+        "Nr Reference":"REF-83203-04-24-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"SARK SHPK"
+    },
+    {
+        "ID":69619,
+        "Titulli":"Blerje Produktesh Agrokulturore (farëra, fidanë, lule sezonale dhe pleh)",
+        "Autoriteti Prokurues":"Qeverisja Vendore Tiranë",
+        "Institucioni Prokurues":"Drejtoria e Pergjithshme e Pastrimit dhe Gjelberimit Tirane",
+        "Vlera \/ Fondi Limit":15833000.0,
+        "Data e Shpalljes":"13-05-2026",
+        "Nr Reference":"REF-85330-05-12-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"“A.M.E 2020” shpk"
+    },
+    {
+        "ID":69699,
+        "Titulli":"“Rikonstruksione të fasadave të pallateve”",
+        "Autoriteti Prokurues":"Qeverisja Vendore Durrës",
+        "Institucioni Prokurues":"Bashkia Durres",
+        "Vlera \/ Fondi Limit":41631758.0,
+        "Data e Shpalljes":"18-05-2026",
+        "Nr Reference":"REF-85819-05-15-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"C O L O M B O SHPK"
+    },
+    {
+        "ID":69764,
+        "Titulli":"Mbikqyrje e punimeve per objektin: \"Ndertim Blloku Paskuqan, Kamez,Bathore\"",
+        "Autoriteti Prokurues":"Qeverisja Vendore Kamëz",
+        "Institucioni Prokurues":"Bashkia Kamez",
+        "Vlera \/ Fondi Limit":1276057.0,
+        "Data e Shpalljes":"28-05-2026",
+        "Nr Reference":"REF-87054-05-26-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"G B Civil Engineering"
+    },
+    {
+        "ID":69694,
+        "Titulli":"Materiale pastrimi dhe dezinfektimi",
+        "Autoriteti Prokurues":"Qeverisja Vendore Korçë",
+        "Institucioni Prokurues":"Ndermarrja e Sherbimeve Mbeshtetese te Arsimit dhe Cerdhes, Korce",
+        "Vlera \/ Fondi Limit":3750000.0,
+        "Data e Shpalljes":"18-05-2026",
+        "Nr Reference":"REF-85754-05-15-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"SKYLINE SC"
+    },
+    {
+        "ID":68636,
+        "Titulli":"Mirëmbajtje e rrethimeve të objekteve",
+        "Autoriteti Prokurues":"Qeverisja Vendore Shkodër",
+        "Institucioni Prokurues":"Drejtoria e Pergjithshme e Mirembajtjes se Objekteve Publike",
+        "Vlera \/ Fondi Limit":9999999.0,
+        "Data e Shpalljes":"21-04-2026",
+        "Nr Reference":"REF-82603-04-20-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"APIS CONSTRUCTION sh.p.k"
+    },
+    {
+        "ID":69700,
+        "Titulli":"Rehabilitim shetitorja nr.2 Kavaljon",
+        "Autoriteti Prokurues":"Qeverisja Vendore Kavajë",
+        "Institucioni Prokurues":"Bashkia Kavaje",
+        "Vlera \/ Fondi Limit":70478918.0,
+        "Data e Shpalljes":"18-05-2026",
+        "Nr Reference":"REF-85747-05-15-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"BE-IS SHPK"
+    },
+    {
+        "ID":69824,
+        "Titulli":"Shërbime furnizimi dhe depozitimi me material inert (dhe) , përfshirë nxjerrjen , transportimin dhe depozitimin e materialit në Landfill",
+        "Autoriteti Prokurues":"Qeverisja Vendore Korçë",
+        "Institucioni Prokurues":"SH.A Administrimi i Mbetjeve Qarkut Korce",
+        "Vlera \/ Fondi Limit":2000000.0,
+        "Data e Shpalljes":"29-05-2026",
+        "Nr Reference":"REF-87752-05-28-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"TH O R E N E K S"
+    },
+    {
         "ID":68373,
         "Titulli":"Blerje Pjesë Këmbimi",
         "Autoriteti Prokurues":"Qeverisja Vendore Tiranë",
@@ -65106,7 +65403,7 @@
         "Data e Shpalljes":"20-05-2026",
         "Nr Reference":"REF-86134-05-19-2026",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"“KEGLI-DURI” sh.p.k  -  “EURO-ALB” sh.p.k"
+        "Fituesi (Winner)":"“KEGLI-DURI” sh.p.k   -   LIS KONSTRUKSION sh.p.k"
     },
     {
         "ID":69585,
@@ -65172,7 +65469,7 @@
         "Data e Shpalljes":"01-04-2026",
         "Nr Reference":"REF-80545-03-31-2026",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":""
+        "Fituesi (Winner)":"DAJTI PARK 2007 SHPK"
     },
     {
         "ID":69560,
@@ -65722,7 +66019,7 @@
         "Data e Shpalljes":"16-02-2026",
         "Nr Reference":"REF-76125-02-13-2026",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Inerti SHPK"
+        "Fituesi (Winner)":""
     },
     {
         "ID":68507,
@@ -66107,7 +66404,7 @@
         "Data e Shpalljes":"02-03-2026",
         "Nr Reference":"REF-77741-02-27-2026",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"GENTIAN SADIKU"
+        "Fituesi (Winner)":"Error\/Blocked"
     },
     {
         "ID":68390,
@@ -66415,7 +66712,18 @@
         "Data e Shpalljes":"27-03-2026",
         "Nr Reference":"REF-80165-03-26-2026",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Error\/Blocked"
+        "Fituesi (Winner)":"Sinani Trading  SHPK ( ish M B KURTI shpk)"
+    },
+    {
+        "ID":69443,
+        "Titulli":"Sherbim autobotesh",
+        "Autoriteti Prokurues":"Qeverisja Vendore Tiranë",
+        "Institucioni Prokurues":"SH.A Ujesjelles Kanalizime Tirane",
+        "Vlera \/ Fondi Limit":19820000.0,
+        "Data e Shpalljes":"06-05-2026",
+        "Nr Reference":"REF-84351-05-05-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"Bledar Ismaili"
     },
     {
         "ID":68391,
@@ -66537,6 +66845,17 @@
         "Nr Reference":"REF-78253-03-05-2026",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
         "Fituesi (Winner)":"\"GEGA CENTER GKG\""
+    },
+    {
+        "ID":69463,
+        "Titulli":"Blerje materialesh pastrimi dhe dezinfektimi",
+        "Autoriteti Prokurues":"Qeverisja Vendore Durrës",
+        "Institucioni Prokurues":"Qendra Ekonomike e Arsimit Bashkia Durres",
+        "Vlera \/ Fondi Limit":9995839.0,
+        "Data e Shpalljes":"07-04-2026",
+        "Nr Reference":"REF-80921-04-03-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"E Pacaktuar"
     },
     {
         "ID":66976,
@@ -69913,7 +70232,7 @@
         "Data e Shpalljes":"30-05-2025",
         "Nr Reference":"REF-44282-04-09-2025",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Spektri SHPK"
+        "Fituesi (Winner)":"Error\/Blocked"
     },
     {
         "ID":63410,
@@ -79318,7 +79637,7 @@
         "Data e Shpalljes":"10-07-2024",
         "Nr Reference":"REF-12603-07-09-2024",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Error\/Blocked"
+        "Fituesi (Winner)":"A.ARENS"
     },
     {
         "ID":55610,
@@ -82827,7 +83146,7 @@
         "Data e Shpalljes":"18-10-2023",
         "Nr Reference":"REF-84085-10-17-2023",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"“KOMBI INVEST” shpk"
+        "Fituesi (Winner)":"Error\/Blocked"
     },
     {
         "ID":53503,
@@ -86666,7 +86985,7 @@
         "Data e Shpalljes":"31-03-2023",
         "Nr Reference":"REF-64287-03-30-2023",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Error\/Blocked"
+        "Fituesi (Winner)":"ENKLEJ SHPK"
     },
     {
         "ID":51523,
@@ -99811,7 +100130,7 @@
         "Data e Shpalljes":"22-05-2020",
         "Nr Reference":"REF-58748-05-21-2020",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Error\/Blocked"
+        "Fituesi (Winner)":"SI.SI-AL sh.p.k  -   R. S. & M"
     },
     {
         "ID":33107,
@@ -109128,7 +109447,7 @@
         "Data e Shpalljes":"17-05-2018",
         "Nr Reference":"REF-69309-05-16-2018",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"E Pacaktuar"
+        "Fituesi (Winner)":"Error\/Blocked"
     },
     {
         "ID":17196,
@@ -113550,7 +113869,7 @@
         "Data e Shpalljes":"26-04-2017",
         "Nr Reference":"REF-09000-04-25-2017",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Error\/Blocked"
+        "Fituesi (Winner)":"Ndregjoni SHPK"
     },
     {
         "ID":9707,
@@ -113759,7 +114078,7 @@
         "Data e Shpalljes":"01-03-2017",
         "Nr Reference":"REF-69681-02-28-2017",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Error\/Blocked"
+        "Fituesi (Winner)":"LIS KONSTRUKSION"
     },
     {
         "ID":9169,
@@ -113825,7 +114144,7 @@
         "Data e Shpalljes":"28-03-2017",
         "Nr Reference":"REF-74530-03-28-2017",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Error\/Blocked"
+        "Fituesi (Winner)":"Adelisa Stafa"
     },
     {
         "ID":7923,
@@ -113947,6 +114266,28 @@
         "Nr Reference":null,
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
         "Fituesi (Winner)":"G.P.G.COMPANY"
+    },
+    {
+        "ID":70095,
+        "Titulli":"Sherbime mirembajtje mjetesh",
+        "Autoriteti Prokurues":"Qeverisja Vendore Peqin",
+        "Institucioni Prokurues":"Bashkia Peqin",
+        "Vlera \/ Fondi Limit":4000000.0,
+        "Data e Shpalljes":"24-06-2026",
+        "Nr Reference":"REF-90590-06-19-2026",
+        "Red Flag Reason":"Skualifikim i te gjithe operatoreve konkurrues pervec fituesit\/ Skualifikim i ofertes vlere me e ulet",
+        "Fituesi (Winner)":"E Pacaktuar"
+    },
+    {
+        "ID":70097,
+        "Titulli":"Blerje autoveturë 4+1 elektrike",
+        "Autoriteti Prokurues":"Qeverisja Vendore Tiranë",
+        "Institucioni Prokurues":"ECO Tirana",
+        "Vlera \/ Fondi Limit":3234783.0,
+        "Data e Shpalljes":"24-06-2026",
+        "Nr Reference":"REF-90988-06-23-2026",
+        "Red Flag Reason":"Skualifikim i te gjithe operatoreve konkurrues pervec fituesit\/ Skualifikim i ofertes vlere me e ulet",
+        "Fituesi (Winner)":"E Pacaktuar"
     },
     {
         "ID":69914,
@@ -116135,7 +116476,7 @@
         "Data e Shpalljes":"14-12-2015",
         "Nr Reference":null,
         "Red Flag Reason":"Skualifikim i te gjithe operatoreve konkurrues pervec fituesit\/ Skualifikim i ofertes vlere me e ulet",
-        "Fituesi (Winner)":"Error\/Blocked"
+        "Fituesi (Winner)":"E Pacaktuar"
     },
     {
         "ID":609,
