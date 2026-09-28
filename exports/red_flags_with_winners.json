@@ -16200,7 +16200,7 @@
         "Data e Shpalljes":"21-02-2024",
         "Nr Reference":"REF-95869-02-20-2024",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":53988,
@@ -32568,7 +32568,7 @@
         "Data e Shpalljes":"24-08-2021",
         "Nr Reference":"REF-03527-08-23-2021",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":43189,
@@ -45966,7 +45966,7 @@
         "Data e Shpalljes":"18-04-2019",
         "Nr Reference":"REF-18625-04-17-2019",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":27062,
@@ -45988,7 +45988,7 @@
         "Data e Shpalljes":"19-03-2019",
         "Nr Reference":"REF-14049-03-18-2019",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":26874,
@@ -50630,7 +50630,7 @@
         "Data e Shpalljes":"30-07-2018",
         "Nr Reference":"REF-81081-07-28-2018",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":20191,
@@ -55008,7 +55008,7 @@
         "Data e Shpalljes":"25-10-2017",
         "Nr Reference":"REF-30964-10-24-2017",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":13237,
@@ -56460,7 +56460,7 @@
         "Data e Shpalljes":"30-06-2017",
         "Nr Reference":"REF-18993-06-29-2017",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Error"
+        "Fituesi (Winner)":"FJORTES SHPK"
     },
     {
         "ID":10858,
@@ -56471,7 +56471,7 @@
         "Data e Shpalljes":"07-07-2017",
         "Nr Reference":"REF-19857-07-06-2017",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Error"
+        "Fituesi (Winner)":"Brianza-2 SHPK"
     },
     {
         "ID":9607,
@@ -56493,7 +56493,7 @@
         "Data e Shpalljes":"30-05-2017",
         "Nr Reference":"REF-15503-05-29-2017",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Error"
+        "Fituesi (Winner)":"ALB TIEFBAU SHPK"
     },
     {
         "ID":10640,
@@ -56504,7 +56504,7 @@
         "Data e Shpalljes":"06-06-2017",
         "Nr Reference":"REF-16359-06-05-2017",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":10662,
@@ -60112,7 +60112,7 @@
         "Data e Shpalljes":"13-10-2016",
         "Nr Reference":"REF-53287-10-12-2016",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":4649,
@@ -60123,7 +60123,7 @@
         "Data e Shpalljes":"14-10-2016",
         "Nr Reference":"REF-53613-10-14-2016",
         "Red Flag Reason":"Mungese konkurrence",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":4913,
@@ -66352,6 +66352,28 @@
         "Fituesi (Winner)":"AURORA KONSTRUKSION"
     },
     {
+        "ID":70711,
+        "Titulli":"“Ndërtim Ura Paskuqan 2”",
+        "Autoriteti Prokurues":"Qeverisja Vendore Kamëz",
+        "Institucioni Prokurues":"Bashkia Kamez",
+        "Vlera \/ Fondi Limit":165010990.0,
+        "Data e Shpalljes":"20-08-2026",
+        "Nr Reference":"REF-96674-08-19-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"4 A -M SHPK"
+    },
+    {
+        "ID":70692,
+        "Titulli":"“Sistemim asfaltim i rrugëve në Njësitë Administrative Allkaj, Fiershegan, Ballagat, Krutje, Dushk, Karbunarë”",
+        "Autoriteti Prokurues":"Qeverisja Vendore Lushnje",
+        "Institucioni Prokurues":"Bashkia Lushnje",
+        "Vlera \/ Fondi Limit":142258048.0,
+        "Data e Shpalljes":"19-08-2026",
+        "Nr Reference":"REF-96515-08-18-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"LLAZO SHPK"
+    },
+    {
         "ID":70505,
         "Titulli":"Ndërtimi i rrugës së re nga Rotonda e varrezave deri në intersektimin me rrugën “Nos Josifi”, lagja Emin Matraxhiu",
         "Autoriteti Prokurues":"Qeverisja Vendore Elbasan",
@@ -68343,17 +68365,6 @@
         "Fituesi (Winner)":"TH O R E N E K S"
     },
     {
-        "ID":70236,
-        "Titulli":"“Blerje materiale për riparimin e sheshit të parkimit për kullën e vrojtimit dhe shkallët”.",
-        "Autoriteti Prokurues":"Qeverisja Vendore Belsh",
-        "Institucioni Prokurues":"Bashkia Belsh",
-        "Vlera \/ Fondi Limit":6302051.0,
-        "Data e Shpalljes":"07-07-2026",
-        "Nr Reference":"REF-92497-07-06-2026",
-        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"M U R A T I SHPK"
-    },
-    {
         "ID":70288,
         "Titulli":"\"Blerje materiale për rehabilitimin e rrugës së Liqenit,Roskovec për projektin:\"Qeverisje e mirë përmes pjesëmarrjes aktive në bashkëfinancimin e projekteve\".",
         "Autoriteti Prokurues":"Qeverisja Vendore Roskovec",
@@ -68363,6 +68374,17 @@
         "Nr Reference":"REF-92759-07-08-2026",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
         "Fituesi (Winner)":"SARK SHPK"
+    },
+    {
+        "ID":70236,
+        "Titulli":"“Blerje materiale për riparimin e sheshit të parkimit për kullën e vrojtimit dhe shkallët”.",
+        "Autoriteti Prokurues":"Qeverisja Vendore Belsh",
+        "Institucioni Prokurues":"Bashkia Belsh",
+        "Vlera \/ Fondi Limit":6302051.0,
+        "Data e Shpalljes":"07-07-2026",
+        "Nr Reference":"REF-92497-07-06-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"M U R A T I SHPK"
     },
     {
         "ID":70037,
@@ -68648,7 +68670,7 @@
         "Data e Shpalljes":"29-12-2025",
         "Nr Reference":"REF-73342-12-24-2025",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":69534,
@@ -69000,7 +69022,7 @@
         "Data e Shpalljes":"04-11-2025",
         "Nr Reference":"REF-67572-11-03-2025",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":69619,
@@ -69561,7 +69583,7 @@
         "Data e Shpalljes":"25-05-2026",
         "Nr Reference":"REF-86499-05-22-2026",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":68427,
@@ -69782,6 +69804,17 @@
         "Nr Reference":"REF-83820-04-29-2026",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
         "Fituesi (Winner)":"IDK – Konstruksion"
+    },
+    {
+        "ID":68437,
+        "Titulli":"Ndërtim Rrugët Blloku 1 Fushë Kamëz (Nga Rruga Kosova - Bulevardi \"Nënë Tereza\")",
+        "Autoriteti Prokurues":"Qeverisja Vendore Kamëz",
+        "Institucioni Prokurues":"Bashkia Kamez",
+        "Vlera \/ Fondi Limit":263188508.0,
+        "Data e Shpalljes":"27-03-2026",
+        "Nr Reference":"REF-80181-03-26-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"LIQENI VII SHA"
     },
     {
         "ID":68589,
@@ -70166,7 +70199,7 @@
         "Data e Shpalljes":"17-04-2026",
         "Nr Reference":"REF-82250-04-16-2026",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":68674,
@@ -71310,7 +71343,7 @@
         "Data e Shpalljes":"19-03-2026",
         "Nr Reference":"REF-79566-03-18-2026",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":68331,
@@ -74203,7 +74236,7 @@
         "Data e Shpalljes":"15-07-2025",
         "Nr Reference":"REF-54749-07-14-2025",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":63334,
@@ -78152,7 +78185,7 @@
         "Data e Shpalljes":"12-02-2025",
         "Nr Reference":"REF-37586-02-11-2025",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":62117,
@@ -78878,7 +78911,7 @@
         "Data e Shpalljes":"12-02-2025",
         "Nr Reference":"REF-37586-02-11-2025",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":62127,
@@ -79527,7 +79560,7 @@
         "Data e Shpalljes":"24-10-2024",
         "Nr Reference":"REF-26049-10-23-2024",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":61688,
@@ -79604,7 +79637,7 @@
         "Data e Shpalljes":"24-10-2024",
         "Nr Reference":"REF-26081-10-23-2024",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":62170,
@@ -81397,7 +81430,7 @@
         "Data e Shpalljes":"08-10-2024",
         "Nr Reference":"REF-23103-10-07-2024",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":61054,
@@ -93101,7 +93134,7 @@
         "Data e Shpalljes":"30-01-2023",
         "Nr Reference":"REF-57194-01-27-2023",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":50860,
@@ -93123,7 +93156,7 @@
         "Data e Shpalljes":"07-02-2023",
         "Nr Reference":"REF-58067-02-06-2023",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":50914,
@@ -96214,7 +96247,7 @@
         "Data e Shpalljes":"25-07-2022",
         "Nr Reference":"REF-36941-07-22-2022",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":48160,
@@ -96533,7 +96566,7 @@
         "Data e Shpalljes":"28-07-2022",
         "Nr Reference":"REF-37299-07-27-2022",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":47845,
@@ -108017,7 +108050,7 @@
         "Data e Shpalljes":"15-04-2019",
         "Nr Reference":"REF-17918-04-12-2019",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"Error"
     },
     {
         "ID":26905,
@@ -108952,7 +108985,7 @@
         "Data e Shpalljes":"28-01-2019",
         "Nr Reference":"REF-05044-01-25-2019",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Error"
+        "Fituesi (Winner)":"ARB & TRANS-2010"
     },
     {
         "ID":25179,
@@ -110195,7 +110228,7 @@
         "Data e Shpalljes":"20-11-2018",
         "Nr Reference":"REF-94719-11-19-2018",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":31382,
@@ -110448,7 +110481,7 @@
         "Data e Shpalljes":"29-08-2018",
         "Nr Reference":"REF-84032-08-28-2018",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":23447,
@@ -110635,7 +110668,7 @@
         "Data e Shpalljes":"25-09-2018",
         "Nr Reference":"REF-87032-09-24-2018",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":22007,
@@ -112186,7 +112219,7 @@
         "Data e Shpalljes":"11-06-2018",
         "Nr Reference":"REF-74156-06-08-2018",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":18951,
@@ -116179,7 +116212,7 @@
         "Data e Shpalljes":"29-09-2017",
         "Nr Reference":"REF-28150-09-28-2017",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Bami SHPK"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":10782,
@@ -118479,6 +118512,17 @@
         "Nr Reference":null,
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
         "Fituesi (Winner)":"G.P.G.COMPANY"
+    },
+    {
+        "ID":71057,
+        "Titulli":"Ndërtim lerë uji në Ekonominë Pyjore Pezë, Krrabë-Gurrë, Shesh",
+        "Autoriteti Prokurues":"Qeverisja Vendore Tiranë",
+        "Institucioni Prokurues":"Agjencia e Parqeve dhe Rekreacionit",
+        "Vlera \/ Fondi Limit":4984668.0,
+        "Data e Shpalljes":"18-09-2026",
+        "Nr Reference":"REF-00233-09-17-2026",
+        "Red Flag Reason":"Skualifikim i te gjithe operatoreve konkurrues pervec fituesit\/ Skualifikim i ofertes vlere me e ulet",
+        "Fituesi (Winner)":"E Pacaktuar"
     },
     {
         "ID":70967,
