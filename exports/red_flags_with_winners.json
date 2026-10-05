@@ -11,6 +11,28 @@
         "Fituesi (Winner)":"4 S"
     },
     {
+        "ID":70942,
+        "Titulli":"Bashkia Malësi e Madhe kërkon të marrë me qira një objekt (Ndërtesë + tokë) me qira për stacionimin\r\ne automjeteve të Bashkisë, për depozitimin e druve dhe për zyrat Ndërmarrjes së Shfrytëzimit Pyjor",
+        "Autoriteti Prokurues":"Qeverisja Vendore Malësi e Madhe",
+        "Institucioni Prokurues":"Bashkia Malësi e Madhe",
+        "Vlera \/ Fondi Limit":1270000.0,
+        "Data e Shpalljes":"14-09-2026",
+        "Nr Reference":"1",
+        "Red Flag Reason":"Mungese konkurrence",
+        "Fituesi (Winner)":"SHKRELI SHPK"
+    },
+    {
+        "ID":70710,
+        "Titulli":"Ndërtimi i pedonales Spile-Saraçinko",
+        "Autoriteti Prokurues":"Qeverisja Vendore Himarë",
+        "Institucioni Prokurues":"Bashkia Himare",
+        "Vlera \/ Fondi Limit":500000000.0,
+        "Data e Shpalljes":"20-08-2026",
+        "Nr Reference":"REF-96684-08-19-2026",
+        "Red Flag Reason":"Mungese konkurrence",
+        "Fituesi (Winner)":"CURRI SHPK                                                                                       \r\n  -  \r\nEC Pro Partners SHPK                                                                                   \r\n  -  \r\nSON Engineering & Construction Engineering & Construction shpk  \r\n  -  \r\nGeoENG SHPK"
+    },
+    {
         "ID":70730,
         "Titulli":"“Përmirësimi i banesave ekzistuese për komunitete të varfëra dhe të pafavorizuara”",
         "Autoriteti Prokurues":"Qeverisja Vendore Prrenjas",
@@ -66352,6 +66374,28 @@
         "Fituesi (Winner)":"AURORA KONSTRUKSION"
     },
     {
+        "ID":70801,
+        "Titulli":"Rehabilitimi i pellgut ujëmbledhës përroit të Zaranikës dhe Rikonstruksion i digës dhe shtratit të përroit të Zaranikës, Elbasan (Faza e III-të)",
+        "Autoriteti Prokurues":"Qeverisja Vendore Elbasan",
+        "Institucioni Prokurues":"Bashkia Elbasan",
+        "Vlera \/ Fondi Limit":164599822.0,
+        "Data e Shpalljes":"27-08-2026",
+        "Nr Reference":"REF-97535-08-26-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"EN-SAL sh.p.k \r\n  -   LIS KONSTRUKSION sh.p.k"
+    },
+    {
+        "ID":71146,
+        "Titulli":"Minikonkurs Nr.6: “Projekte zbatimi (blerje projektesh) për “Rehabilitim i shetitores\r\nXhorxh Tenet”",
+        "Autoriteti Prokurues":"Qeverisja Vendore Himarë",
+        "Institucioni Prokurues":"Bashkia Himare",
+        "Vlera \/ Fondi Limit":0.0,
+        "Data e Shpalljes":null,
+        "Nr Reference":"REF-85317-05-12-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"A & E Engineering SHPK"
+    },
+    {
         "ID":70711,
         "Titulli":"“Ndërtim Ura Paskuqan 2”",
         "Autoriteti Prokurues":"Qeverisja Vendore Kamëz",
@@ -66372,6 +66416,127 @@
         "Nr Reference":"REF-96515-08-18-2026",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
         "Fituesi (Winner)":"LLAZO SHPK"
+    },
+    {
+        "ID":71147,
+        "Titulli":"Minikonkurs Nr.1: Projekte zbatimi (blerje projektesh) për “Rehabilitimi i fasadave të\r\nfshatit Pilur””",
+        "Autoriteti Prokurues":"Qeverisja Vendore Himarë",
+        "Institucioni Prokurues":"Bashkia Himare",
+        "Vlera \/ Fondi Limit":0.0,
+        "Data e Shpalljes":null,
+        "Nr Reference":"REF-85317-05-12-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"LC-LINK   -  \r\nTRANSPORT HIGHWAY CONSULTING"
+    },
+    {
+        "ID":71148,
+        "Titulli":"Minikonkurs Nr.2:  “Projekte zbatimi (blerje projektesh) për “Rikonstruksion i Rrugës\r\n“Ixuar-Pargua””",
+        "Autoriteti Prokurues":"Qeverisja Vendore Himarë",
+        "Institucioni Prokurues":"Bashkia Himare",
+        "Vlera \/ Fondi Limit":0.0,
+        "Data e Shpalljes":null,
+        "Nr Reference":"REF-85317-05-12-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"INFRATECH shpk    -  \r\nEMAR 21 shpk"
+    },
+    {
+        "ID":71149,
+        "Titulli":"Minikonkurs Nr.3:  “Projekte zbatimi (blerje projektesh) për “Ndertim i pikës panoramike\r\nQeparo””",
+        "Autoriteti Prokurues":"Qeverisja Vendore Himarë",
+        "Institucioni Prokurues":"Bashkia Himare",
+        "Vlera \/ Fondi Limit":0.0,
+        "Data e Shpalljes":null,
+        "Nr Reference":"REF-85317-05-12-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"INFRATECH shpk    -  \r\nEMAR 21 shpk"
+    },
+    {
+        "ID":71150,
+        "Titulli":"Minikonkurs Nr.4: “Projekte zbatimi (blerje projektesh) për “Rehabilitimi i kalldrëmeve\r\nnë fshatin Piqeras, loti II”",
+        "Autoriteti Prokurues":"Qeverisja Vendore Himarë",
+        "Institucioni Prokurues":"Bashkia Himare",
+        "Vlera \/ Fondi Limit":0.0,
+        "Data e Shpalljes":null,
+        "Nr Reference":"REF-85317-05-12-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"INFRATECH shpk    -  \r\nEMAR 21 shpk"
+    },
+    {
+        "ID":71151,
+        "Titulli":"Minikonkurs Nr.5: “Projekte zbatimi (blerje projektesh) për “Ndërtim i shëtitores\r\nrrethrrotullimi në Drimadhe-Gone””",
+        "Autoriteti Prokurues":"Qeverisja Vendore Himarë",
+        "Institucioni Prokurues":"Bashkia Himare",
+        "Vlera \/ Fondi Limit":0.0,
+        "Data e Shpalljes":null,
+        "Nr Reference":"REF-85317-05-12-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"ZENIT&CO SHPK   -   GRAMA SHPK   -   VIANTE Konstruksion SHPK"
+    },
+    {
+        "ID":71152,
+        "Titulli":"Minikonkurs Nr.7: “Projekte zbatimi (blerje projektesh) për “Rehabilitimi i kanaleve\r\nvaditëse””",
+        "Autoriteti Prokurues":"Qeverisja Vendore Himarë",
+        "Institucioni Prokurues":"Bashkia Himare",
+        "Vlera \/ Fondi Limit":0.0,
+        "Data e Shpalljes":null,
+        "Nr Reference":"REF-85317-05-12-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"ARENA MK   -   AEG-Consulting"
+    },
+    {
+        "ID":71153,
+        "Titulli":"Minikonkurs Nr.8: “Projekte zbatimi (blerje projektesh) për “Rikonstruksion i rruges se\r\nManastirit te Kremesoves, Piqeras””",
+        "Autoriteti Prokurues":"Qeverisja Vendore Himarë",
+        "Institucioni Prokurues":"Bashkia Himare",
+        "Vlera \/ Fondi Limit":0.0,
+        "Data e Shpalljes":null,
+        "Nr Reference":"REF-85317-05-12-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"CIVIL CONS   -   M.A.G PARTNERS   -   INVICTUS   -    S&L STUDIO"
+    },
+    {
+        "ID":71154,
+        "Titulli":"Minikonkurs Nr.9: “Projekte zbatimi (blerje projektesh) për “Rehabilitim kalldrëmeve ne\r\nQeparo Fshat””",
+        "Autoriteti Prokurues":"Qeverisja Vendore Himarë",
+        "Institucioni Prokurues":"Bashkia Himare",
+        "Vlera \/ Fondi Limit":0.0,
+        "Data e Shpalljes":null,
+        "Nr Reference":"REF-85317-05-12-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"Noor Engineering SHPK   -   ARKIMADE SHPK   -    E.B.S SHPK"
+    },
+    {
+        "ID":71155,
+        "Titulli":"Minikonkurs Nr.10:  “Projekte zbatimi (blerje projektesh) për “Rikonstruksion i cezmes\r\nne Qender te fshatit Piqeras””",
+        "Autoriteti Prokurues":"Qeverisja Vendore Himarë",
+        "Institucioni Prokurues":"Bashkia Himare",
+        "Vlera \/ Fondi Limit":0.0,
+        "Data e Shpalljes":null,
+        "Nr Reference":"REF-85317-05-12-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"A & E Engineering SHPK"
+    },
+    {
+        "ID":71156,
+        "Titulli":"Minikonkurs Nr.11:  “Projekte zbatimi (blerje projektesh) për “Ndërtimi i ujësjellësit\r\nTatzat, Njësia Administrative Lukovë””",
+        "Autoriteti Prokurues":"Qeverisja Vendore Himarë",
+        "Institucioni Prokurues":"Bashkia Himare",
+        "Vlera \/ Fondi Limit":0.0,
+        "Data e Shpalljes":null,
+        "Nr Reference":"REF-85317-05-12-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"INSTITUTI DEKLIADA - ALB   -   G & L CONSTRUCTION"
+    },
+    {
+        "ID":71157,
+        "Titulli":"Minikonkurs Nr.12:  “Projekte zbatimi (blerje projektesh) për “Ndërtimi i stadiumit\r\nHimarë””",
+        "Autoriteti Prokurues":"Qeverisja Vendore Himarë",
+        "Institucioni Prokurues":"Bashkia Himare",
+        "Vlera \/ Fondi Limit":0.0,
+        "Data e Shpalljes":null,
+        "Nr Reference":"REF-85317-05-12-2026",
+        "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
+        "Fituesi (Winner)":"-  \nNotice:  Undefined offset: 1 in \/home\/openprocurement\/application\/views\/scripts\/tender\/view.phtml on line 443\n  -  \nNotice:  Undefined offset: 2 in \/home\/openprocurement\/application\/views\/scripts\/tender\/view.phtml on line 443\n  -  \nNotice:  Undefined offset: 3 in \/home\/openprocurement\/application\/views\/scripts\/tender\/view.phtml on line 443\n  -  \nNotice:  Undefined offset: 4 in \/home\/openprocurement\/application\/views\/scripts\/tender\/view.phtml on line 443"
     },
     {
         "ID":70505,
@@ -108050,7 +108215,7 @@
         "Data e Shpalljes":"15-04-2019",
         "Nr Reference":"REF-17918-04-12-2019",
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
-        "Fituesi (Winner)":"Error"
+        "Fituesi (Winner)":"BAMI HOLDING sh.p.k"
     },
     {
         "ID":26905,
@@ -118512,6 +118677,17 @@
         "Nr Reference":null,
         "Red Flag Reason":"Shtese kontrate (shtese vlere) pa perfunduar ende faza e pare e kontrates",
         "Fituesi (Winner)":"G.P.G.COMPANY"
+    },
+    {
+        "ID":71169,
+        "Titulli":"Blerje dru zjarri",
+        "Autoriteti Prokurues":"Qeverisja Vendore Tropojë",
+        "Institucioni Prokurues":"Bashkia Tropoje",
+        "Vlera \/ Fondi Limit":3755759.0,
+        "Data e Shpalljes":"25-09-2026",
+        "Nr Reference":"REF-01151-09-24-2026",
+        "Red Flag Reason":"Skualifikim i te gjithe operatoreve konkurrues pervec fituesit\/ Skualifikim i ofertes vlere me e ulet",
+        "Fituesi (Winner)":"E Pacaktuar"
     },
     {
         "ID":71057,
